@@ -11,6 +11,7 @@ h2 {
 }
 div.about {
     font-family: Helvetica;
+    color: red;
 }
 div.skills {
     font-family: sans-serif;
