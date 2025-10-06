@@ -5,6 +5,11 @@ body {
 h1 {
     color: rgb(70, 80, 90);
     text-align: center;
-
+}
+div.about {
+    font-family: Helvetica;
+}
+div.skills {
+    font-family: sans-serif;
 }
 
