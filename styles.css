@@ -6,6 +6,9 @@ h1 {
     color: rgb(70, 80, 90);
     text-align: center;
 }
+h2 {
+    color: brown;
+}
 div.about {
     font-family: Helvetica;
 }
