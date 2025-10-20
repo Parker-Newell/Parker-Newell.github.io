@@ -1,6 +1,10 @@
 body {
     background: BlanchedAlmond;
+<<<<<<< HEAD
+    font-family: Helvetica;
+=======
     font-family: Arial, helvetica, sans-serif;
+>>>>>>> 59578a772bfdbd9424584bad46bf85ef232b3462
 }
 h1 {
     color: rgb(70, 80, 90);
@@ -14,5 +18,12 @@ div.about {
 }
 div.skills {
     font-family: sans-serif;
+}
+.project img {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px;
+    display: block;
 }
 
