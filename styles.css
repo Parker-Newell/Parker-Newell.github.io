@@ -1,10 +1,7 @@
 body {
     background: BlanchedAlmond;
-<<<<<<< HEAD
     font-family: Helvetica;
-=======
     font-family: Arial, helvetica, sans-serif;
->>>>>>> 59578a772bfdbd9424584bad46bf85ef232b3462
 }
 h1 {
     color: rgb(70, 80, 90);
@@ -28,5 +25,12 @@ div.skills {
 }
 a {
     text-decoration: none;
+}
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: white; /* pick a color */
+border-radius: 25%;
 }
 
