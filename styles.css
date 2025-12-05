@@ -22,6 +22,7 @@ div.skills {
     margin: 10px;
     border: 2px;
     display: block;
+    box-align: center;
 }
 a {
     text-decoration: none;
